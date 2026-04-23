@@ -40,12 +40,5 @@ I'm currently building/publicly developing a **Focus Timer Web Application** des
 - 🔭 **Current Obsession:** Turning raw timestamps into actionable productivity metrics.
 - 👥 **Seeking:** Fellow U of A students in Sciences/Tech who want to **whiteboard problems** or pair program. I learn 10x faster when I have to explain my logic out loud.
 - 🌱 **Mindset Upgrade:** Moving from *"How do I make this work?"* to *"Why is this the right way to make this work?"*
-
----
-
-### 📫 Let's Connect (IRL Preferred)
-- 💼 **LinkedIn:** [Insert LinkedIn URL]
-- 📍 **Location:** Usually somewhere between CSC and the Rutherford Library, Edmonton, AB.
-
 ---
 *"The goal isn't to get the AI to write the code. The goal is to be the person who knows if the code is worth running."*
