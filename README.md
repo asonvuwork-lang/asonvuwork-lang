@@ -1,9 +1,7 @@
 ### Hi, I'm Ason Vu 👋
 #### CS Honors (2nd Year) @ University of Alberta | Building with People, Not Just Prompts
 
-I'm a second-year CS Honors student at the U of A, but I'm not here to just throw data at a black box. I'm training to be an AI Data Scientist, but more importantly, I'm training to be a better thinker
-
-I believe the best models come from arguing with teammates in a study room in CSC, not from blindly copy-pasting from a chatbot. I'm here to upgrade my mindset to understand the "why" behind the algorithm so I don't get stuck in a loop of repetitive, surface-level work.
+I'm a second-year CS Honors student at the U of A, an international student from Vietnam. I believe the best way to learn something is from others in different environments - not from watching videos or listening to rumors. I'm here to constantly upgrade my mindset, to understand the "why" behind the work, so I never settle into repetitive, surface-level habits. I strive to perfect the way I think, continuously refining my perspective so it never falls behind the times.
 
 **📍 Current Loop:**
 - 🧠 **Academics:** Surviving CMPUT 201/204 while eyeing CMPUT 366 (Intelligent Systems).
