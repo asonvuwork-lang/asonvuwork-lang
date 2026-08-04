@@ -8,7 +8,7 @@ I'm a second-year CS Honors student at the U of A, an international student from
 ### 🛠️ The Stack
 - **Languages:** Python, C
 - **Data Science Core:** Pandas, NumPy, Scikit-learn, Matplotlib/Seaborn
-- **Web Stuff (Because Data Needs a Home):** HTML/CSS
+- **Web Stuff:** HTML/CSS
 - **Version Control:** Git 
 ---
 
